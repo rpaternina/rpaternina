@@ -68,7 +68,7 @@ Es un desarrollador **Backend** apasionado por construir aplicaciones de alto re
 
 <table align="center">
   <tr>
-    <td><img src="https://cecar.edu.co/images/tag.png" /></td>
+    <td><img src="![image](https://github.com/user-attachments/assets/01cf0ab6-56fc-43b9-9987-ac6a8867343d)" /></td>
     <td><strong>Ingeniero de Sistemas</strong></td>
   </tr>
   <tr>
