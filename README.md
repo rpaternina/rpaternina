@@ -68,7 +68,7 @@ Es un desarrollador **Backend** apasionado por construir aplicaciones de alto re
 
 <table align="center">
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/LogoCECAR.png/480px-LogoCECAR.png" width="120" height="120" alt="CECAR Logo" /></td>
+    <td><img src="https://cecar.edu.co/images/logow.png" width="120" height="120" alt="CECAR Logo" /></td>
     <td><strong>Ingeniero de Sistemas</strong></td>
   </tr>
   <tr>
@@ -102,13 +102,13 @@ Es un desarrollador **Backend** apasionado por construir aplicaciones de alto re
 ## 🌐 Contáctame
 
 <p align="center">
-  <a href="mailto:tu.email@ejemplo.com">
+  <a href="paterninayolir@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/tuperfil/">
+  <a href="https://www.linkedin.com/in/robert-paternina/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/username">
+  <a href="https://github.com/rpaternina">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
