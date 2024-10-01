@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Sobre Él
+## 🚀 Robert Paternina
 
 Es un desarrollador **Backend** apasionado por construir aplicaciones de alto rendimiento utilizando **Java** y su extenso ecosistema de tecnologías. Se enfoca en crear soluciones escalables, eficientes y mantenibles para el backend de diversas industrias.
 
