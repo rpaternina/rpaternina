@@ -68,7 +68,7 @@ Es un desarrollador **Backend** apasionado por construir aplicaciones de alto re
 
 <table align="center">
   <tr>
-    <td><img src="![image](https://github.com/user-attachments/assets/01cf0ab6-56fc-43b9-9987-ac6a8867343d)" /></td>
+    <td><img src="https://www.flaticon.es/icono-gratis/educacion_3976625?term=educacion&page=1&position=3&origin=search&related_id=3976625" /></td>
     <td><strong>Ingeniero de Sistemas</strong></td>
   </tr>
   <tr>
