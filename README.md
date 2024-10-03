@@ -83,7 +83,7 @@ Es un desarrollador **Backend** apasionado por construir aplicaciones de alto re
 ## 🌟 Repositorios Destacados
 
 <p align="center">
-  <a href="https://github.com/username/backend">
+  <a href="https://github.com/rpaternina/Java-0-a-Experto">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=backend&theme=dark&show_icons=true" alt="Backend Project" />
   </a>
   <a href="https://github.com/username/comersiocurso">
