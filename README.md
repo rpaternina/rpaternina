@@ -74,7 +74,7 @@ Mi experiencia incluye el uso de Docker para la contenerización de aplicaciones
   </tr>
   <tr>
     <td colspan="2">
-      Egresado de la **Corporación Universitaria del Caribe - CECAR**, Sincelejo. Se destaca por su capacidad analítica y habilidades en el desarrollo de software backend, con especialización en **Java** y tecnologías afines.
+      Egresado de la Corporación Universitaria del Caribe - CECAR, Sincelejo. Se destaca por su capacidad analítica y habilidades en el desarrollo de software backend, con especialización en Java y tecnologías afines.
     </td>
   </tr>
 </table>
