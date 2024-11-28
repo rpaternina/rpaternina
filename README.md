@@ -17,14 +17,15 @@
 
 ## 🚀 Robert Paternina
 
-Es un desarrollador **Backend** apasionado por construir aplicaciones de alto rendimiento utilizando **Java** y su extenso ecosistema de tecnologías. Se enfoca en crear soluciones escalables, eficientes y mantenibles para el backend de diversas industrias.
+Desarrollador Backend especializado en el ecosistema Java. Me especializo en el desarrollo de APIs RESTful y microservicios utilizando Spring Boot y Spring Cloud, implementando seguridad con Spring Security y JWT. Manejo con destreza la persistencia de datos mediante Hibernate/JPA y bases de datos relacionales PostgreSQL y MySQL.
+Mi experiencia incluye el uso de Docker para la contenerización de aplicaciones y control de versiones con Git, siguiendo las mejores prácticas de desarrollo y arquitecturas limpias. Comprometido con el código de calidad, la documentación efectiva y las pruebas unitarias JUnit y Mockito.
 
 🎯 **Áreas de Especialización**:
 - **Microservicios** con **Spring Boot** y **Spring Cloud**.
 - **APIs RESTful** y su integración con bases de datos.
 - **Despliegue en la nube** (AWS, Google Cloud).
 
-🧠 **En constante aprendizaje** para mejorar la eficiencia de las aplicaciones backend, aplicar arquitectura de microservicios, y explorar la **computación en la nube**.
+🧠 **En constante aprendizaje** para mejorar la eficiencia de las aplicaciones backend, aplicar arquitectura de microservicios, monolitica y explorar la **computación en la nube**.
 
 ---
 
