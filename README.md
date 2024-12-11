@@ -59,10 +59,6 @@ Egresado con enfoque en desarrollo de software backend, destacándose por su cap
 | **Since-Alquiler** | Plataforma para alquilar y vender casas y apartamentos en la ciudad de sincelejo | Spring Security, JWT, OAuth2, Angular, Config Server, Eureka, Kafka, Api Rest |
 | **Gestión escolar 20 de enero** | Gestion de estudiantes para el colegio 20 de enero | Spring Boot, Kafka, PostgreSQL, Api-Gateway, Config Server, Eureka, JWT, OpenFeign, Docker, Api Rest |
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkxWJ7maZ/giphy.gif" width="300" height="200" alt="Coding Projects" />
-</p>
-
 ## 🌐 Contáctame
 
 <p align="center">
