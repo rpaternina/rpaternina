@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" />
-  <img src="https://img.shields.io/badge/Microservices-4A90E2?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Microservicios-4A90E2?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservicios" />
 </p>
 
 <p align="center">
@@ -14,7 +14,8 @@
 
 ## 🚀 Robert Paternina | Backend Wizard
 
-Desarrollador Backend especializado en el ecosistema Java, con un enfoque profundo en arquitecturas de microservicios y soluciones cloud-native. Mi pasión radica en construir sistemas escalables, seguros y de alto rendimiento utilizando las últimas tecnologías del ecosistema Spring.
+Desarrollador Backend especializado en el ecosistema Java. Me especializo en el desarrollo de APIs RESTful y microservicios utilizando Spring Boot y Spring Cloud, implementando seguridad con Spring Security y JWT. Manejo con destreza la persistencia de datos mediante Hibernate/JPA y bases de datos relacionales PostgreSQL y MySQL.
+Mi experiencia incluye el uso de Docker para la contenerización de aplicaciones y control de versiones con Git, siguiendo las mejores prácticas de desarrollo y arquitecturas limpias.
 
 ### 🎯 Áreas de Especialización
 
@@ -45,11 +46,21 @@ Desarrollador Backend especializado en el ecosistema Java, con un enfoque profun
 
 Egresado con enfoque en desarrollo de software backend, destacándose por su capacidad analítica y dominio de tecnologías Java.
 
-## 📊 Estadísticas de GitHub
+## 🚀 Proyectos Destacados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpaternina&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rpaternina&theme=radical" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Microservicios-en desarrollo-blue?style=for-the-badge" alt="Microservicios" />
+  <img src="https://img.shields.io/badge/Cloud Native-Explorando-green?style=for-the-badge" alt="Cloud Native" />
+</p>
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| **BookNook Libreria digital** | Libreria digital basada en arquitectura de Microservicios | Spring Boot, Spring Cloud, MySQL, PostgreSQL, Docker, Jwt, Api Rest |
+| **Since-Alquiler** | Plataforma para alquilar y vender casas y apartamentos en la ciudad de sincelejo | Spring Security, JWT, OAuth2, Angular, Config Server, Eureka, Kafka, Api Rest |
+| **Gestión escolar 20 de enero** | Gestion de estudiantes para el colegio 20 de enero | Spring Boot, Kafka, PostgreSQL, Api-Gateway, Config Server, Eureka, JWT, OpenFeign, Docker, Api Rest |
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkxWJ7maZ/giphy.gif" width="300" height="200" alt="Coding Projects" />
 </p>
 
 ## 🌐 Contáctame
