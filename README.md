@@ -58,6 +58,7 @@ Egresado con enfoque en desarrollo de software backend, destacándose por su cap
 | **BookNook Libreria digital** | Libreria digital basada en arquitectura de Microservicios | Spring Boot, Spring Cloud, MySQL, PostgreSQL, Docker, Jwt, Api Rest |
 | **Since-Alquiler** | Plataforma para alquilar y vender casas y apartamentos en la ciudad de sincelejo | Spring Security, JWT, OAuth2, Angular, Config Server, Eureka, Kafka, Api Rest |
 | **Gestión escolar 20 de enero** | Gestion de estudiantes para el colegio 20 de enero | Spring Boot, Kafka, PostgreSQL, Api-Gateway, Config Server, Eureka, JWT, OpenFeign, Docker, Api Rest |
+| **Jobs Search** | Api para buscar empleo en tiempo real | Spring Boot, WebClient, H2, WebFlux, Jwt |
 
 ## 🌐 Contáctame
 
